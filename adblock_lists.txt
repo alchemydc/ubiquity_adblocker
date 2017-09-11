@@ -1,0 +1,4 @@
+ http://winhelp2002.mvps.org/hosts.txt
+ https://adaway.org/hosts.txt
+ https://www.malwaredomainlist.com/hostslist/hosts.txt
+ https://hosts-file.net/ad_servers.txt
